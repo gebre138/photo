@@ -1,0 +1,3 @@
+1. open anaconda powershell(cmd)
+2. goto file "setap.py" path
+3. python setup.py bdist_wheel --universal
